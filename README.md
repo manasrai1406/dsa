@@ -1,1 +1,3 @@
-# bubble-sort
+# DSA
+
+## This repo is about DSA programs using different languages  like JAVA PYthon C etc....
